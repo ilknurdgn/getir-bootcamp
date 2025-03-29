@@ -23,6 +23,6 @@ Bu proje, Getir Java Spring Boot Bootcamp Cohorts 2. Hafta ödevi kapsamında ge
 ## 🖥️ Konsol Çıktısı
 Aşağıda uygulama çalıştırıldığında elde edilen örnek çıktı yer almaktadır:
 
-<p align="center">
-    <img src="./src/main/java/tr/com/ilknurdogan/assets/output.png" width="600">
+<p>
+    <img src="./src/main/java/tr/com/ilknurdogan/assets/output.png">
 </p>
